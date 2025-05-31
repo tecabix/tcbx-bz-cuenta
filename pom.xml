@@ -10,7 +10,7 @@
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>tcbx-bz-catalogo</name>
+  <name>tcbx-bz-cuenta</name>
   <url>http://maven.apache.org</url>
 
   <properties>
